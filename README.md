@@ -13,6 +13,7 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
        * Basic Statistics of the Dataset
   3. Which artists have the highest streams per song? One-Hit-Wonder metric!
   4. Within the top 50, do artists with more entries account for more listening volume?
+* Evaluation of Visualization
    
 
 
