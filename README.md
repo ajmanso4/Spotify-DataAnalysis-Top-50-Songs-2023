@@ -76,7 +76,14 @@ Naturally, we see artists on this "One hit wonder" list who are most definitley 
 ^^ This visualization confirms the relationship between the number of songs an artist has in Spotify's top 50 and their total amount of streams. This is another way to visualize the significant gap between Ed Sheeran, The Weeknd and Post Malone compared to the other artists.
 
 ## Evaluation of Analysis :
-I should have used data from Spotify itself, via Spotify's [Web API](https://developer.spotify.com/documentation/web-api), "Spotify for Developers". I should have requested the data needed for this analysis from the source itself rather than from a third party, to ensure that the data is accurate and so that I can answer the most questions as possible.
+The biggest point: I should have sourced the data from Spotify itself, via Spotify's [Web API](https://developer.spotify.com/documentation/web-api), "Spotify for Developers". I should have requested the data necesary for a proper and thorough analysis from the source itself rather than a limited dataset sourced from a third party, to ensure that the data is accurate and so that I have all of the data I need for a thorough analysis.
 
-This dataset is limited and it is possible that it may not be completelely accurate. This dataset only has three columns: Artist and Title, Streams, and Daily. I only used the "Artist and Title" column and the "Streams" column for this analysis. I could have answered more meaningful questions if I had data such as the genre, explicit or not, and the Shazam count of each song.
+This dataset is limited and it is possible that it may not be completelely accurate. This dataset only has three columns: Artist and Title, Streams, and Daily. I only used the "Artist and Title" column and the "Streams" column for this analysis. I could have answered more meaningful questions if I had data such as the genre, explicit or not, and the Shazam count of each song. 
+  * For example, if I had the Shazam count, I could have presented the following research question: Is there any relationship between the Shazam count and the total streams of each song in the top 50?
+<img width="899" height="544" alt="Screenshot 2026-02-23 at 15 43 28" src="https://github.com/user-attachments/assets/7afdeac5-e9df-4f78-869e-46aacc93c25a" />
+
+^^ I had made a graphic visualization to answer this question back in 2024 when I originally made this project. However, I had to scrap this research question upon realizing that the dataset I was using had too many problems; there were too many inconsistencies and innacuracies within that other dataset.
+
+I can improve my "analsysis" part of "data analysis". I will be learning how to properly, professionally, and academically describe my visualizations in words. I also can still improve on my coding efficiency. 
+
 
