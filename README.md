@@ -3,6 +3,8 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
   * Completed Spring 2024.
   * Revamped February 2026.
 
+My code is in the file "AJMC_Spotify_Most_Streamed.ipynb" attached above.
+  * My preprocessesing is in the code
 
 ## Table of Contents:
 * Dataset and Source
@@ -13,7 +15,7 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
        * Basic Statistics of the Dataset
   3. Which artists have the highest streams per song? One-Hit-Wonder metric!
   4. Within the top 50, do artists with more entries account for more listening volume?
-* Evaluation of Visualization
+* **Evaluation of Analysis**
    
 
 
@@ -72,4 +74,8 @@ Naturally, we see artists on this "One hit wonder" list who are most definitley 
 
 ^^ This visualization confirms the relationship between the number of songs an artist has in Spotify's top 50 and their total amount of streams. This is another way to visualize the significant gap between Ed Sheeran, The Weeknd and Post Malone compared to the other artists.
 
+## Evaluation of Analysis :
+I should have used data from Spotify itself, via Spotify's [Web API](https://developer.spotify.com/documentation/web-api), "Spotify for Developers". I should have requested the data needed for this analysis from the source itself rather than from a third party, to ensure that the data is accurate and so that I can answer the most questions as possible.
+
+This dataset is limited and it is possible that it may not be completelely accurate. This dataset only has three columns: Artist and Title, Streams, and Daily. I only used the "Artist and Title" column and the "Streams" column for this analysis. I could have answered more meaningful questions if I had data such as the genre, explicit or not, and the Shazam count of each song.
 
