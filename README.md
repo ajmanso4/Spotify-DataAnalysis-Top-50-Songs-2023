@@ -4,8 +4,8 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
   * Revamped February 2026.
 
 My code is in the file "AJMC_Spotify_Most_Streamed.ipynb" attached above.
-  * My preprocessesing is in the code
-  * Please read "Evaluation of Analysis" at the end of the presentation.
+  * My preprocessesing is embedded in the .ipynb file.
+  * **Please read "Evaluation of Analysis" at the end of the presentation.**
 
 ## Table of Contents:
 * Dataset and Source
@@ -76,7 +76,7 @@ Naturally, we see artists on this "One hit wonder" list who are most definitley 
 ^^ This visualization confirms the relationship between the number of songs an artist has in Spotify's top 50 and their total amount of streams. This is another way to visualize the significant gap between Ed Sheeran, The Weeknd and Post Malone compared to the other artists.
 
 ## Evaluation of Analysis :
-The biggest point: I should have sourced the data from Spotify itself, via Spotify's [Web API](https://developer.spotify.com/documentation/web-api), "Spotify for Developers". I should have requested the data necesary for a proper and thorough analysis from the source itself rather than a limited dataset sourced from a third party, to ensure that the data is accurate and so that I have all of the data I need for a thorough analysis.
+I should have sourced the data from Spotify itself, via Spotify's [Web API](https://developer.spotify.com/documentation/web-api), "Spotify for Developers". I should have requested the data necesary for a proper and thorough analysis from the source itself rather than a limited dataset sourced from a third party, to ensure that the data is accurate and so that I have all of the data I need for a thorough analysis.
 
 This dataset is limited and it is possible that it may not be completelely accurate. This dataset only has three columns: Artist and Title, Streams, and Daily. I only used the "Artist and Title" column and the "Streams" column for this analysis. I could have answered more meaningful questions if I had data such as the genre, explicit or not, and the Shazam count of each song. 
   * For example, if I had the Shazam count, I could have presented the following research question: Is there any relationship between the Shazam count and the total streams of each song in the top 50?
@@ -84,6 +84,8 @@ This dataset is limited and it is possible that it may not be completelely accur
 
 ^^ I had made a graphic visualization to answer this question back in 2024 when I originally made this project. However, I had to scrap this research question upon realizing that the dataset I was using had too many problems; there were too many inconsistencies and innacuracies within that other dataset.
 
-I can improve my "analsysis" part of "data analysis". I will be learning how to properly, professionally, and academically describe my visualizations in words. I also can still improve on my coding efficiency. 
+**I can improve my "analsysis" part of "data analysis". I will be learning how to properly, professionally, and academically describe my visualizations in words. I also can still improve on my coding efficiency and my preprocessing abilities.**
+
+**I can improve on my data sourcing, my preprocessing, my coding efficiency, and my analytical abilities.**
 
 
