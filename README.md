@@ -84,7 +84,7 @@ This dataset is limited and it is possible that it may not be completelely accur
 
 ^^ I had made a graphic visualization to answer this question back in 2024 when I originally made this project. However, I had to scrap this research question upon realizing that the dataset I was using had too many problems; there were too many inconsistencies and innacuracies within that other dataset.
 
-**I can improve my "analsysis" part of "data analysis". I will be learning how to properly, professionally, and academically describe my visualizations in words. I also can still improve on my coding efficiency and my preprocessing abilities.**
+**I can improve my "analysis" part of "data analysis". I will be learning how to properly, professionally, and academically describe my visualizations in words. I also can still improve on my coding efficiency and my preprocessing abilities.**
 
 **I can improve on my data sourcing, my preprocessing, my coding efficiency, and my analytical abilities.**
 
