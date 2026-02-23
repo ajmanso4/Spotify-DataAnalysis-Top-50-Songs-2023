@@ -5,6 +5,7 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
 
 My code is in the file "AJMC_Spotify_Most_Streamed.ipynb" attached above.
   * My preprocessesing is in the code
+  * Please read "Evaluation of Analysis" at the end of the presentation.
 
 ## Table of Contents:
 * Dataset and Source
