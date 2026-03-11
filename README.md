@@ -1,4 +1,4 @@
-# Exploratory Data Analysis: Spotify Most Streamed Songs of 2023
+# Spotify Most Streamed Songs of 2023
 Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotlib) via Jupyter notebook.
   * Completed Spring 2024.
   * Revamped February 2026.
